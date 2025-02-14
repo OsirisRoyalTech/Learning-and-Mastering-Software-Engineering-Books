@@ -1,0 +1,4 @@
+Overview: This book teaches how to improve the structure of existing codebases without changing their external behavior. 
+          It includes a catalog of common refactoring techniques.
+
+Ideal for: Software engineers working with legacy code and those looking to enhance the quality and maintainability of their code.
